@@ -73,6 +73,7 @@ ul{
 
 }
 .img1{
+    curser:pointer;
 
     width: 500px;
     border-radius: 100px;
